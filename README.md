@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NurKholisYusufRabbani
-- 👀 I’m interested in networking and cybersecurity
-- 🌱 I’m currently learning cybersecurity, networking, and python
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Python, Excel, machine learning, and other data-related skills to enhance my proficiency in data analysis and visualization.
 - 📫 How to reach me: send me an email at @nurkholis.23074@mhs.unesa.ac.id
 
 <!---
