@@ -20,31 +20,31 @@ Hi, I’m **Yusuf**. I’m a computer science student who enjoys backend develop
 #### 🚀 Languages & Core
 
 <p align="left">
-  <img alt="PHP" src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" height="30"/>
-  <img alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="30"/>
-  <img alt="CSS3" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height=30"/>
-  <img alt="Python" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" height="30"/>
+  <img alt="PHP" src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" height="50"/>
+  <img alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="50"/>
+  <img alt="CSS3" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height=50"/>
+  <img alt="Python" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" height="50"/>
 </p>
 
 #### ⚛️ Frameworks & Libraries
 
 <p align="left">
-  <img alt="Laravel" src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" height="30"/>
-  <img alt="Flutter" src="https://img.icons8.com/?size=100&id=5pu47piHKg1I&format=png&color=000000" height="30"/>
-  <img alt="TailwindCSS" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" height="25"/>
+  <img alt="Laravel" src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" height="50"/>
+  <img alt="Flutter" src="https://img.icons8.com/?size=100&id=5pu47piHKg1I&format=png&color=000000" height="50"/>
+  <img alt="TailwindCSS" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" height="50"/>
   </p>
 
 #### 🗄️ Databases
 
 <p align="left">
-  <img alt="MySQL" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" height="30"/>
+  <img alt="MySQL" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" height="50"/>
   </p>
 
 #### ☁️ Others
 
 <p align="left">
-  <img alt="Google Cloud" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="25"/>
-  <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="25"/>
+  <img alt="Google Cloud" src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="50"/>
+  <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height="50"/>
   </p>
 
 ---
@@ -79,10 +79,7 @@ I'm always open to collaborating on interesting projects, discussing new ideas, 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nur-kholis-yusuf-rabbani" target="_blank">
-  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://NurKholisYusufRabbani.github.io/" target="_blank">
-  <img align="center" alt="Website" src="https://img.shields.io/badge/Website-%23772CE8.svg?style=for-the-badge&logo=web&logoColor=white" />
+  <img align="center" alt="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />
 </a>
 </p>
 
